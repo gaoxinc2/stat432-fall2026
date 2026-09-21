@@ -1,0 +1,2 @@
+
+If ridge can dramatically stabilize individual coefficients such as $\hat{\beta}_1$ and $\hat{\beta}_2$ while barely changing the fitted values, does that mean we should be cautious about interpreting individual coefficients whenever predictors are highly correlated? Why?
