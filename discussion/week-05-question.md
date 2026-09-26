@@ -1,0 +1,2 @@
+If KNN suffers from the curse of dimensionality, why can it still perform well on datasets such as handwritten images that have hundreds of observed features?
+When can correlation among predictors actually help KNN rather than hurt it, even though KNN uses every predictor when calculating distance?
