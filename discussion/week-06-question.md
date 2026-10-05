@@ -1,0 +1,1 @@
+How does multicollinearity affect variable selection in Lasso, and why might Lasso select one predictor over another when the predictors are highly correlated?
