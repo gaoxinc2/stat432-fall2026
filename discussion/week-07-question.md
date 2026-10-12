@@ -1,0 +1,1 @@
+Why might QDA perform better than LDA in some cases but worse in others? How does the number of predictors affect their performance, especially when the sample size is small?
