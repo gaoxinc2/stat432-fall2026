@@ -1,0 +1,1 @@
+    How does the geometric margin relate to an SVM’s ability to generalize to new observations? Does a larger margin always lead to better classification performance?
